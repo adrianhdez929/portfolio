@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Footer() {
     return(
-	<footer className="w-full h-28 bg-gray-200 relative flex items-center justify-between">
+	<footer className="hidden w-full h-28 bg-gray-200 relative flex items-center justify-between">
         <div className="mx-12 px-5 w-auto flex flex-col items-center justify-center text-gray-500">
             <div><span>&copy; 2021 - Adrian Hernandez</span></div>
             <div><span>adrianhdez929@gmail.com</span></div>
