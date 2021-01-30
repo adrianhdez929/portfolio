@@ -8,8 +8,6 @@ export default function Navbar(props) {
     const router = useRouter();
     const [isOpen, setIsOpen] = useState(false);
 
-    useEffect(() => console.log(router))
-
     return(
     <>
         <nav className="relative w-full flex items-center bg-gray-200 h-12">
