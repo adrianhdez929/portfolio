@@ -4,8 +4,8 @@ export default function Footer() {
     return(
 	<footer className="w-full h-28 bg-gray-200 relative flex items-center justify-between">
         <div className="md:mx-5 md:px-5 w-auto flex flex-col items-center justify-center text-gray-500">
-            <div><span>&copy; 2021 - Adrian Hernandez</span></div>
-            <div><span>adrianhdez929@gmail.com</span></div>
+            <div><span>Copyright &copy; 2021</span></div>
+            <div><span>Adrian Hernandez</span></div>
         </div>
         <div className="md:mx-5 md:px-5 inline-flex items-center w-auto">
             <div className="mx-2 text-gray-700 hover:text-gray-400">
