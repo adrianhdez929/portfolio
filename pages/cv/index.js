@@ -81,6 +81,10 @@ export default function Curriculum() {
                                 <span>Commitment</span>
                                 <Skill stars={ 4 } color='indigo-600' />
                             </div>
+                            <div className="flex justify-between ml-3 my-1 text-md font-light">
+                                <span>Problem solving</span>
+                                <Skill stars={ 5 } color='indigo-600' />
+                            </div>
                         </div>
                         <div className="mx-2 text-xl font-bold">
                             <span>Hobbies</span>
