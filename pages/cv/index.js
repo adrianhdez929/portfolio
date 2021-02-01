@@ -186,11 +186,6 @@ export default function Curriculum() {
                                 </div>
                             </div>                            
                         </div>
-                        <div>
-                            <div>
-                                <span>Certificates</span>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
