@@ -34,8 +34,8 @@ export default function Curriculum() {
                         </div>
                     </div>
                 </div>
-                <div className="flex flex-row border-t w-full">
-                    <div className="flex flex-col w-1/4 border-r">
+                <div className="flex flex-col md:flex-row border-t w-full">
+                    <div className="flex flex-col md:w-1/4 border-r">
                         <div className="mx-2 my-2 text-xl font-bold">
                             <span>Professional Skills</span>
                             <div className="flex justify-between ml-3 my-1 text-md font-light">
