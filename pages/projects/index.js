@@ -26,9 +26,6 @@ export default function Projects() {
                                 </a>
                             </div>
                             <div className="mx-2 px-2 my-2 py-2">
-                                <div className="text-md text-gray-400 my-1">
-                                    <span>Description:</span>
-                                </div>
                                 <span>
                                     My Portfolio website, written using NodeJS, ReactJS and TailwindCSS.
                                     The website also has a blog, with a simple API written in Django.
@@ -47,9 +44,6 @@ export default function Projects() {
                                 </a>
                             </div>
                             <div className="mx-2 px-2 my-2 py-2">
-                                <div className="text-md text-gray-400 my-1">
-                                    <span>Description:</span>
-                                </div>
                                 <span>
                                     A SystemNodes/Masternodes reward sweeper for the cryptocurrency project CrownPlatform, written
                                     in Python using the PyQt framework for the UI, and PyInstaller to bundle the project on a single
@@ -64,9 +58,6 @@ export default function Projects() {
                                 </a>
                             </div>
                             <div className="mx-2 px-2 my-2 py-2">
-                                <div className="text-md text-gray-400 my-1">
-                                    <span>Description:</span>
-                                </div>
                                 <span>
                                     A crawler for the cryptocurrency project CrownPlatform's network. Written in Python, using
                                     built-in concurrency. It is a fork of the Bitcoin network crawler project 
